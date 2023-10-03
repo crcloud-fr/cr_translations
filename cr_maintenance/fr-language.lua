@@ -6,12 +6,12 @@
 
 
 Strings = {
-    drop_message  = "The server is currently undergoing maintenance. Please try again later. For more information, please visit our Discord server: %s.",
-    cmd_maintenance_state_on = "The server is currently in maintenance mode.",
-    cmd_maintenance_state_off = "The server is currently in public mode.",
-    is_player_allowed = "Allowed connection: ^3%s^7.",
-    loaded_files = "Loaded maintenance whitelist data.",
-    add_player_in_whitelist = "Added [%s] to the maintenance whitelist.",
-    connecting = "Connecting: ^3%s^7.",
-    dropping_player_connection = "Dropping: ^3%s^7, Reason: ^3Not Whitelisted^7."
+    drop_message  = "Le serveur est actuellement en maintenance. Veuillez réessayer plus tard. Pour plus d'informations, visitez notre serveur Discord : %s.",
+    cmd_maintenance_state_on = "Le serveur est actuellement en mode maintenance.",
+    cmd_maintenance_state_off = "Le serveur est actuellement en mode public.",
+    is_player_allowed = "Connexion autorisée: ^3%s^7.",
+    loaded_files = "Chargement des données de la whitelist.",
+    add_player_in_whitelist = "Ajout de [%s] à la whitelist.",
+    connecting = "Connexion: ^3%s^7.",
+    dropping_player_connection = "Rejet de: ^3%s^7, Raison: ^3Pas whitelist^7."
 }
